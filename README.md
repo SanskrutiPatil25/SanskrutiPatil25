@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=200&section=header&text=Sanskruti%20Patil&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Excel%20%C2%B7%20Power%20BI%20%C2%B7%20Tableau&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="assets/profile.jpg" width="170" alt="Sanskruti Patil"/>
+<img src="profile.jpg" width="170" alt="Sanskruti Patil"/>
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+clear+decisions+%F0%9F%93%8A;Aspiring+Data+Analyst+%7C+Python+-+SQL+-+Excel;Power+BI+-+Tableau+%7C+Final-Year+CSE+Student;Open+to+Data+Analyst+%26+Internship+Roles)](https://git.io/typing-svg)
 
