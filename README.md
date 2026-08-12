@@ -76,20 +76,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SanskrutiPatil25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskrutiPatil25&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
-
-<img src="https://streak-stats.demolab.com/?user=SanskrutiPatil25&theme=tokyonight&hide_border=true" width="70%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SanskrutiPatil25&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
-
-</div>
-
-<br/>
 
 ## 🐍 Contribution Snake
 
